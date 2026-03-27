@@ -6,7 +6,7 @@
 
 ### Acerca de Mí
 
-Soy un desarrollador con experiencia en [menciona tus áreas de especialización, por ejemplo: desarrollo web, backend, frontend, bases de datos, etc.]. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas del mundo real.
+Soy un desarrollador con experiencia en Frontend, Backend, Bases de datos. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas del mundo real.
 
 ---
 
@@ -17,20 +17,27 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 **Lenguajes de Programación:**
 *   Python
 *   JavaScript
-*   [Otro lenguaje si aplica]
+*   PHP.
+*   
 
 **Frameworks & Librerías:**
 *   Flask
-*   [Otro framework/librería si aplica, por ejemplo: React, Node.js, Express.js]
+*   React
+*   Node.js
+*   Nextjs
+*   Express
 
 **Bases de Datos:**
 *   Firebase Realtime Database (URL: https://xmenosmasprendas-3b0ad-default-rtdb.firebaseio.com/)
-*   [Otra base de datos si aplica, por ejemplo: PostgreSQL, MongoDB]
+*   PostgreSQl
+*   MariaDB
 
 **Herramientas & Plataformas:**
 *   Git, GitHub
 *   Vercel
-*   [Otras herramientas si aplica, por ejemplo: Docker, AWS, Google Cloud]
+*   Postman
+*   Docker
+*   Xampp
 
 ---
 
@@ -38,10 +45,11 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 
 Aquí puedes listar algunos de tus proyectos más interesantes. ¡Asegúrate de incluir enlaces!
 
-*   **[Nombre del Proyecto 1]**: [Breve descripción del proyecto]. [Enlace al repositorio](https://github.com/Etiketaa/portfolio__flask.git)
-*   **[Nombre del Proyecto 2]**: [Breve descripción del proyecto]. [Enlace al repositorio]
-*   **[Nombre del Proyecto 3]**: [Breve descripción del proyecto]. [Enlace al repositorio]
-
+*   **Gestor Flask**: Es una solucion funcional creada en Python Flask, base de datos pequeña en SQLite y funcionalizades de JavaScript para llevar a cabo la gestion de deposito y conteo de inventario. [Enlace al repositorio](https://github.com/Etiketaa/portfolio__flask.git)
+*   **Gestion Interna**: Es una herramienta propia que la utilizo para la gestion interna de mi taller, mantener informados a mis clientes, hacer balances de cada día. Esto en el contexto de reparaciones de electronica. [Enlace al repositorio] (https://github.com/Etiketaa/gestion-interna)
+*   **Domus Tienda**: Domus es mi primer Ecommerce lanzada completamente por mi, base en MariaDB, Frontend en HTMl, CSS Bootstrap y Javascript y Backend en PHP puro. [Enlace al repositorio] https://github.com/Etiketaa/domus-tienda
+*   **Pomodoro Timer Lofi**: Es ima herramienta que nos ayuda con las tareas diarias, sean de hogar, de trabajo, de escuela, aplicada a la técnica pomodoro para 
+enfocarnos por un tiempo determinado y descanso programados. (https://pomodoro-timer-lofi-vercel-app) (https://github.com/Etiketaa/pomodoro-timer)
 ---
 
 ### Contacto
@@ -49,7 +57,7 @@ Aquí puedes listar algunos de tus proyectos más interesantes. ¡Asegúrate de 
 ¡Me encantaría conectar contigo!
 
 *   **LinkedIn**: [Franco Paredes](https://www.linkedin.com/in/francoparedes1992/)
-*   **Email**: [Tu correo electrónico]
+*   **Email**: [francoparedes1992@gmail.com]
 *   **GitHub**: [Tu perfil de GitHub](https://github.com/Etiketaa)
 
 ---
